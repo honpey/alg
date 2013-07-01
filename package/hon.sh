@@ -1,0 +1,4 @@
+make
+./pac
+gedit output &
+
